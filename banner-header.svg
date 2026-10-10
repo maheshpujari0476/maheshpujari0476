@@ -64,8 +64,8 @@
   </line>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1s" fill="freeze"/>
-    <text x="600" y="218" font-size="30" font-weight="600" fill="#c9d1d9">Full-Stack Developer</text>
-    <text x="600" y="262" font-size="25" fill="#8b949e" letter-spacing="0.4">Java · Spring Boot · Microservices · Next.js</text>
+    <text x="600" y="218" font-size="30" font-weight="600" fill="#c9d1d9">Full-Stack / MERN Developer</text>
+    <text x="600" y="262" font-size="25" fill="#8b949e" letter-spacing="0.4">Node.js · Express.js · React · MongoDB · PostgreSQL</text>
   </g>
 </g>
 <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="18" fill="none" stroke="#30363d" stroke-width="1.5"/>
