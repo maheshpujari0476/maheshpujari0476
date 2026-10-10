@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
 
 <p align="center">
-<img src="banner-header.svg" width="100%" alt="Hi, I'm Mahesh 👋 — Full-Stack Developer · Java · Spring Boot · Microservices · Next.js" />
+<img src="banner-header.svg" width="100%" alt="Hi, I'm Mahesh 👋 — MERN Stack Developer · Node.js · Express.js · React.js · MongoDB · PostgreSQL" />
 </p>
 
 <p align="center">
 📍 Bengaluru, Karnataka, India &nbsp;·&nbsp;
-💻 Full-Stack Developer &nbsp;·&nbsp;
+💻 MERN Stack / Full-Stack Developer &nbsp;·&nbsp;
 🎓 Computer Science Engineering Graduate
 </p>
 
@@ -31,7 +31,7 @@
 <a href="#core-concepts"><img src="https://img.shields.io/badge/Core%20Concepts-161b22?style=flat-square" alt="Core Concepts" /></a>
 <a href="#experience"><img src="https://img.shields.io/badge/Experience-161b22?style=flat-square" alt="Experience" /></a>
 <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-161b22?style=flat-square" alt="Featured Projects" /></a>
-<a href="#integrations-systems"><img src="https://img.shields.io/badge/Integrations%20%26%20Systems-161b22?style=flat-square" alt="Integrations & Systems" /></a>
+<a href="#architectural-highlights"><img src="https://img.shields.io/badge/Architectural%20Highlights-161b22?style=flat-square" alt="Architectural Highlights" /></a>
 <a href="#data-structures-algorithms"><img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-161b22?style=flat-square" alt="Data Structures & Algorithms" /></a>
 <a href="#certification"><img src="https://img.shields.io/badge/Certification-161b22?style=flat-square" alt="Certification" /></a>
 <a href="#github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-161b22?style=flat-square" alt="GitHub Stats" /></a>
@@ -52,9 +52,9 @@
 <tr>
 <td>
 
-Backend-focused **Full-Stack Developer** with strong skills in **Java**, **Spring Boot**, and **Microservices Architecture**, building secure, scalable, event-driven systems.
+**MERN Stack Developer** with strong **Node.js** backend skills and hands-on experience building secure, scalable, real-time web applications.
 
-Designed a multi-channel notification system (Email, SMS, WhatsApp) from scratch using **MSG91** and optimized it with **Apache Kafka**, and integrated **Traccar** for real-time GPS tracking. Hands-on with Spring Security, JWT, RBAC, Redis caching, rate limiting, pagination, and database transactions across PostgreSQL and MySQL.
+Experienced in architecting Express.js REST APIs, JWT authentication, RBAC, Redis-backed rate limiting, Socket.io event-driven streaming, and relational & NoSQL database design (**MySQL, PostgreSQL, MongoDB**). Modernized a large legacy production codebase to **ES6+** and delivered a zero-downtime password migration from **SHA-1 to Argon2id** for an international client (**Topmai, Mexico**).
 
 Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, and System Design.
 
@@ -74,14 +74,14 @@ Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, 
 <tr>
 <td>
 
-- 💻 Build scalable microservices and full-stack applications with **Java, Spring Boot, React.js, and Next.js**
-- ⚡ Architect event-driven notification pipelines using **Apache Kafka** and **MSG91 APIs** (Email, SMS, WhatsApp)
-- 🔐 Implement enterprise security with **Spring Security, JWT authentication, RBAC**, and **Redis rate limiting**
-- 🔌 Develop high-throughput **REST APIs** with pagination, filtering, and database transaction workflows
-- 🗄️ Manage production databases across **PostgreSQL, MySQL, MongoDB, and Redis**
-- 🚌 Integrate **Traccar** for real-time GPS telemetry and live map tracking interfaces
-- ⚙️ Deploy and orchestrate services using **Docker, Kubernetes, Git, and GitHub**
-- 🧩 Solve problems through **Data Structures & Algorithms** and robust **System Design**
+- 🌐 Build end-to-end full-stack web applications using the **MERN & PERN Stacks** (**React 19, Next.js, Node.js, Express 5, MongoDB, PostgreSQL**)
+- ⚡ Architect real-time communication systems with **Socket.io & WebSockets** for live messaging, presence tracking, and dynamic dashboards
+- 🔐 Implement enterprise-grade security: **Argon2id password hashing, stateless JWT authentication, RBAC, and Redis rate limiting**
+- 🔄 Modernize legacy production codebases into modular **ES6+ async/await** with clean architecture and standardized REST APIs
+- 🗄️ Design high-performance database schemas with **PostgreSQL ACID transactions**, row-level locks, and **MongoDB** aggregation
+- 📦 Engineer multi-part file and media upload pipelines using **Multer** and secure storage handlers
+- ⚙️ Containerize and deploy services using **Docker, Git, GitHub**, and API testing with **Postman**
+- 🧩 Solve complex computational problems through **Data Structures & Algorithms** and scalable **System Design**
 
 </td>
 </tr>
@@ -101,31 +101,31 @@ Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, 
 
 #### 💻 Languages
 
-<img src="https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/JavaScript%20(ES6+)-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/SQL-21262d?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 
 </td>
 </tr>
 <tr>
 <td>
 
-#### ⚙️ Backend & Architecture
+#### ⚙️ Backend & Real-Time
 
-<img src="https://img.shields.io/badge/Spring%20Boot-21262d?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring%20Security-21262d?style=flat-square&logo=springsecurity&logoColor=6DB33F" alt="Spring Security" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-21262d?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" />
-<img src="https://img.shields.io/badge/Hibernate-21262d?style=flat-square&logo=hibernate&logoColor=59666C" alt="Hibernate" />
-<img src="https://img.shields.io/badge/Apache%20Kafka-21262d?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-<img src="https://img.shields.io/badge/Microservices-21262d?style=flat-square&logo=googlecloud&logoColor=white" alt="Microservices Architecture" />
-<img src="https://img.shields.io/badge/REST%20APIs-21262d?style=flat-square&logo=fastapi&logoColor=009688" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-21262d?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/RESTful%20APIs-21262d?style=flat-square&logo=fastapi&logoColor=009688" alt="RESTful APIs" />
+<img src="https://img.shields.io/badge/Socket.io-21262d?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+<img src="https://img.shields.io/badge/WebSockets-21262d?style=flat-square&logo=websocket&logoColor=white" alt="WebSockets" />
+<img src="https://img.shields.io/badge/Sequelize%20ORM-21262d?style=flat-square&logo=sequelize&logoColor=52B0E7" alt="Sequelize ORM" />
+<img src="https://img.shields.io/badge/Multer-21262d?style=flat-square" alt="Multer" />
 
 <br><br>
 
-**Backend Areas:**  
-Microservices Architecture · Event-Driven Processing · REST API Design · Transaction Management · Pagination & Filtering
+**Backend Specializations:**  
+RESTful API Design · Real-Time Event Streaming · Zero-Downtime Migrations · Legacy ES6+ Modernization · SQL Optimization
 
 </td>
 </tr>
@@ -136,40 +136,45 @@ Microservices Architecture · Event-Driven Processing · REST API Design · Tran
 
 <img src="https://img.shields.io/badge/React.js-21262d?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
 <img src="https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Redux%20Toolkit-21262d?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux Toolkit" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-21262d?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Chakra%20UI-21262d?style=flat-square&logo=chakraui&logoColor=319795" alt="Chakra UI" />
+<img src="https://img.shields.io/badge/Vite-21262d?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
 
 </td>
 </tr>
 <tr>
 <td>
 
-#### 🗄️ Databases
+#### 🗄️ Databases & Caching
 
-<img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
 <img src="https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Redis-21262d?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
 
 <br><br>
 
 **Database Concepts:**  
-Database Transactions · ACID Compliance · Caching Strategies · Index Optimization
+ACID Transactions · Row-Level Locking · Caching Strategies · Index Optimization · NoSQL Data Modeling
 
 </td>
 </tr>
 <tr>
 <td>
 
-#### 🔐 Security
+#### 🔐 Security & Authorization
 
-<img src="https://img.shields.io/badge/Spring%20Security-21262d?style=flat-square&logo=springsecurity&logoColor=6DB33F" alt="Spring Security" />
 <img src="https://img.shields.io/badge/JWT-21262d?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Argon2id-21262d?style=flat-square" alt="Argon2id" />
 <img src="https://img.shields.io/badge/RBAC-21262d?style=flat-square" alt="RBAC" />
 <img src="https://img.shields.io/badge/Rate%20Limiting-21262d?style=flat-square" alt="Rate Limiting" />
+<img src="https://img.shields.io/badge/API%20Security-21262d?style=flat-square" alt="API Security" />
 
 <br><br>
 
 **Security Practices:**  
-JWT Authentication · Authorization & RBAC · Redis-Based Rate Limiting · API Security
+Stateless JWT Authorization · Lazy Credential Rehashing · Role-Based Access Control · Redis-Based Rate Limiting
 
 </td>
 </tr>
@@ -178,11 +183,9 @@ JWT Authentication · Authorization & RBAC · Redis-Based Rate Limiting · API S
 
 #### ☁️ DevOps & Tools
 
-<img src="https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-21262d?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/CI%2FCD-21262d?style=flat-square" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 <img src="https://img.shields.io/badge/Postman-21262d?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 
 </td>
@@ -201,10 +204,10 @@ JWT Authentication · Authorization & RBAC · Redis-Based Rate Limiting · API S
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms%20(DSA)-21262d?style=flat-square" alt="Data Structures & Algorithms (DSA)" />
 <img src="https://img.shields.io/badge/Object--Oriented%20Programming%20(OOP)-21262d?style=flat-square" alt="Object-Oriented Programming (OOP)" />
 <img src="https://img.shields.io/badge/System%20Design-21262d?style=flat-square" alt="System Design" />
-<img src="https://img.shields.io/badge/API%20Design-21262d?style=flat-square" alt="API Design" />
-<img src="https://img.shields.io/badge/Database%20Design-21262d?style=flat-square" alt="Database Design" />
-<img src="https://img.shields.io/badge/Microservices%20Architecture-21262d?style=flat-square" alt="Microservices Architecture" />
-<img src="https://img.shields.io/badge/Event--Driven%20Architecture-21262d?style=flat-square" alt="Event-Driven Architecture" />
+<img src="https://img.shields.io/badge/REST%20API%20Design-21262d?style=flat-square" alt="REST API Design" />
+<img src="https://img.shields.io/badge/Database%20Normalization-21262d?style=flat-square" alt="Database Normalization" />
+<img src="https://img.shields.io/badge/Real--Time%20Architecture-21262d?style=flat-square" alt="Real-Time Architecture" />
+<img src="https://img.shields.io/badge/Zero--Downtime%20Migration-21262d?style=flat-square" alt="Zero-Downtime Migration" />
 </p>
 
 <img src="divider.svg" width="100%" alt="" />
@@ -219,14 +222,14 @@ JWT Authentication · Authorization & RBAC · Redis-Based Rate Limiting · API S
 <tr>
 <td>
 
-#### Full-Stack Developer — SkyllX Technologies Pvt. Ltd.
+#### Backend Developer (Node.js) — SkyllX Technologies Pvt. Ltd.
 **Jun 2026 – Present**  
-*Java, Spring Boot, React.js, Next.js*
+*Client: Topmai, Mexico | Node.js, Express.js, MySQL, Redis, Socket.io, Sequelize, JWT, Argon2*
 
-- 📩 **Multi-Channel Notifications & Kafka:** Designed and built a multi-channel notification system from scratch for Email, SMS, and WhatsApp using MSG91 APIs, then optimized throughput and reliability with Apache Kafka for asynchronous, event-driven processing.
-- ⚙️ **Microservices & Scalable APIs:** Developed scalable microservices and REST APIs using Java, Spring Boot, and Spring Data JPA with pagination, filtering, and transactional workflows on MySQL and PostgreSQL.
-- 🔐 **Security & Telemetry Integration:** Implemented secure backend services with Spring Security, JWT authentication, RBAC, and Redis-based rate limiting, and integrated Traccar for real-time GPS tracking.
-- 🚀 **Production Engineering & DevOps:** Solved real-world business problems by shipping new backend features, resolving production bugs, and optimizing SQL queries to improve API reliability; deployed with Docker and Kubernetes and managed code with Git and GitHub.
+- ⚙️ **Legacy Codebase Modernization:** Modernized a large legacy Node.js/Express codebase by refactoring procedural, callback-based code into modular ES6+ async/await with standardized error handling and REST status codes.
+- 🔐 **Zero-Downtime Credential Migration:** Designed a zero-downtime credential migration that dynamically re-hashed legacy SHA-1 passwords to Argon2id at login, with no service disruption and no forced password resets.
+- 🛡️ **RBAC & Enhanced JWT Security:** Implemented Role-Based Access Control (RBAC) and strengthened JWT security with issuer/audience verification and Redis-backed rate limiting, while maintaining full backward compatibility for older mobile app versions.
+- 💬 **Threaded Chat & International Delivery:** Built threaded message replies for direct and group chat using Sequelize with optimized SQL joins, encrypted payload handling, and real-time Socket.io events; collaborated directly with an international client team to resolve production issues and deliver business requirements.
 
 </td>
 </tr>
@@ -250,12 +253,13 @@ JWT Authentication · Authorization & RBAC · Redis-Based Rate Limiting · API S
 <img src="https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-21262d?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Socket.io-21262d?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
 
 <br><br>
 
-- Engineered a secure, full-stack voting platform with role-based access control and REST APIs for voter management, election configuration, voting, and result processing.
-- Enforced one-vote-per-voter integrity using PostgreSQL transactions and database constraints.
-- Built secure vote storage, real-time result updates, and interactive analytics dashboards.
+- Engineered a secure voting system with unique voter-ID verification and strict role separation between voters and administrators.
+- Guaranteed one-person-one-vote integrity using PostgreSQL transactions, row-level locking, and unique constraints, preventing double voting and race conditions.
+- Built live election dashboards with Socket.io streaming real-time vote counts, along with password recovery and token-based sessions.
 
 <br>
 
@@ -265,29 +269,57 @@ JWT Authentication · Authorization & RBAC · Redis-Based Rate Limiting · API S
 </tr>
 </table>
 
-<img src="divider.svg" width="100%" alt="" />
-
-<!-- ═══════════════════════════ INTEGRATIONS ═══════════════════════════ -->
-
-<a id="integrations-systems" name="integrations-systems"></a>
-
-<h3 align="center">🧩 Integrations & Systems</h3>
+<br>
 
 <table width="100%">
 <tr>
 <td>
 
-#### 📱 Event-Driven Multi-Channel Notifications
+#### 💬 Real-Time Chat Platform (WhatsApp Web Clone)
 
-<img src="https://img.shields.io/badge/Apache%20Kafka-21262d?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-<img src="https://img.shields.io/badge/MSG91-21262d?style=flat-square" alt="MSG91" />
-<img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
-<img src="https://img.shields.io/badge/SMS-21262d?style=flat-square" alt="SMS" />
-<img src="https://img.shields.io/badge/WhatsApp-21262d?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+<img src="https://img.shields.io/badge/React%2019-21262d?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+<img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express%205-21262d?style=flat-square&logo=express&logoColor=white" alt="Express 5" />
+<img src="https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Socket.io-21262d?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
 
 <br><br>
 
-Architected an asynchronous notification infrastructure from scratch integrating MSG91 APIs with Apache Kafka to reliably queue, process, and deliver high volumes of Email, SMS, and WhatsApp alerts with failover handling.
+- Built a type-safe, full-stack messaging application with instant message delivery, typing indicators, and user online/offline presence tracking using Socket.io.
+- Secured authentication with Argon2 password hashing and stateless JWTs stored securely in HTTP-only cookies.
+- Implemented file and media sharing pipelines using Multer and an optimized image-handling flow.
+
+<br>
+
+🔗 [**View Repository**](https://github.com/maheshpujari0476/MERNbased-Realtimechat-application)
+
+</td>
+</tr>
+</table>
+
+<img src="divider.svg" width="100%" alt="" />
+
+<!-- ═══════════════════════════ ARCHITECTURAL HIGHLIGHTS ═══════════════════════════ -->
+
+<a id="architectural-highlights" name="architectural-highlights"></a>
+
+<h3 align="center">🧩 Architectural Highlights</h3>
+
+<table width="100%">
+<tr>
+<td>
+
+#### 🔐 Zero-Downtime Credential Migration (SHA-1 ➔ Argon2id)
+
+<img src="https://img.shields.io/badge/Argon2id-21262d?style=flat-square" alt="Argon2id" />
+<img src="https://img.shields.io/badge/SHA--1-21262d?style=flat-square" alt="SHA-1" />
+<img src="https://img.shields.io/badge/Zero--Downtime-21262d?style=flat-square" alt="Zero-Downtime" />
+<img src="https://img.shields.io/badge/OWASP%20Security-21262d?style=flat-square" alt="OWASP Security" />
+
+<br><br>
+
+Architected a transparent lazy-rehashing mechanism on authentication endpoints. When active users log in with obsolete SHA-1 credentials, the system validates the hash, seamlessly generates a memory-hard Argon2id hash in the background, updates the database, and issues an upgraded JWT token—modernizing user security with zero downtime or user friction.
 
 </td>
 </tr>
@@ -299,15 +331,16 @@ Architected an asynchronous notification infrastructure from scratch integrating
 <tr>
 <td>
 
-#### 🚌 Real-Time GPS Tracking
+#### ⚡ Real-Time Bidirectional Event Streaming
 
-<img src="https://img.shields.io/badge/Traccar-21262d?style=flat-square" alt="Traccar" />
-<img src="https://img.shields.io/badge/GPS%20Telemetry-21262d?style=flat-square" alt="GPS" />
-<img src="https://img.shields.io/badge/Real--Time%20Tracking-21262d?style=flat-square" alt="Real-Time Tracking" />
+<img src="https://img.shields.io/badge/Socket.io-21262d?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+<img src="https://img.shields.io/badge/WebSockets-21262d?style=flat-square&logo=websocket&logoColor=white" alt="WebSockets" />
+<img src="https://img.shields.io/badge/Redis-21262d?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+<img src="https://img.shields.io/badge/Live%20Streaming-21262d?style=flat-square" alt="Live Streaming" />
 
 <br><br>
 
-Integrated Traccar for live vehicle tracking via device IMEI registration, consuming real-time coordinate data to power map-based telemetry showing live location, speed, and movement status.
+Designed real-time event-driven backends using Socket.io and Redis pub/sub. Enabled sub-100ms bidirectional synchronization for instant 1:1 chat, group messages with threaded replies, user presence indicators, and live ballot count tallies across distributed client sessions.
 
 </td>
 </tr>
@@ -392,13 +425,13 @@ I regularly practice problem-solving and focus on building strong computer scien
 <tr>
 <td>
 
-- ☕ Advanced Java & Spring Boot Microservices
-- ⚡ Event-Driven Architectures with Apache Kafka
+- 🚀 Advanced Node.js & Express Architecture (ES6+ & TypeScript)
+- ⚡ Real-Time Systems & WebSocket Scaling with Socket.io & Redis
 - 🧩 Data Structures & Algorithms
-- 🏗️ System Design & Distributed Systems
-- 🔐 Spring Security, RBAC & API Rate Limiting
-- 🗄️ Database Transactions & Optimization
-- 🚀 Production Engineering with Docker & Kubernetes
+- 🏗️ High-Throughput System Design & Distributed Caching
+- 🔐 Advanced Auth Patterns, Argon2id, and Fine-Grained RBAC
+- 🗄️ Database Transactions, ACID Integrity, and Index Tuning
+- 🐳 Production Deployments with Docker
 
 </td>
 </tr>
@@ -416,12 +449,12 @@ I regularly practice problem-solving and focus on building strong computer scien
 <tr>
 <td align="center">
 
-💻 Full-Stack Development ·  
-☕ Java Backend Engineering ·  
-⚙️ Spring Boot & Microservices ·  
-⚡ Event-Driven Systems ·  
-🏗️ System Design ·  
-☁️ DevOps & Cloud Deployment
+💻 MERN Stack Development ·  
+🌐 Full-Stack Web Engineering ·  
+⚙️ Node.js & Express Backend Development ·  
+⚡ Real-Time Event-Driven Systems ·  
+🏗️ Scalable System Design ·  
+🗄️ Database Engineering (PostgreSQL & MongoDB)
 
 </td>
 </tr>
